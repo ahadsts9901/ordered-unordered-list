@@ -1,0 +1,29 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(212, 199, 184);
+}
+
+.header{
+    top: 0;
+    z-index: 20;
+    position: sticky;
+    background-color: #3f301d;
+}
+
+body{
+    background-color: #3f301d;
+}
+
+img{
+    border: 2px solid rgb(255, 242, 226);
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em 9em;
+}
+
+hr{
+    border: 1px solid rgb(255, 242, 226);
+}
